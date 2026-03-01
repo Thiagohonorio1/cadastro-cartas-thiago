@@ -37,7 +37,7 @@ int main (){
     //saida de dados
 
     printf ("carta 1 \n");
-    printf ("")
+    printf ("%")
 
 
 
